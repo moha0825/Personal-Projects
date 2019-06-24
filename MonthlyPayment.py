@@ -1,4 +1,5 @@
-# Lubna Mohamed Abdirahman, moha0825, Lab Section 011, HW 3, Problem C
+# This code is designed to calculate the monthly payment of a loan using the principal 
+#   amount, interest rate, and term of the loan. 
 def loan_payment(p,r,t):
     # P = "Principal"
     # R = "Interest-Rate"
