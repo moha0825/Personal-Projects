@@ -1,4 +1,6 @@
-# Lubna Mohamed Abdirahman, moha0825, Lab Section 011, HW 3, Problem B
+# This code is designed for two players, and is a classic game of rock paper scissors.
+#   Users should enter either R, P, or S to indicate their choice and will see
+#   the winner of each round after entering their selection. 
 def rock_paper_scissors(player1, player2):
     rock = "R"
     paper = "P"
