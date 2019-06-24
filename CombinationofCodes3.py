@@ -1,5 +1,3 @@
-# Lubna Mohamed Abdirahman, moha0825, Lab Section 011, HW 6
-
 #==========================================
 # Name: sameKeys
 # Purpose: Given two dictionaries, the function will look for keys found in 
