@@ -1,4 +1,4 @@
-# CSCI 1133, Lab Section 011, HW 2 Lubna Mohamed Abdirahman, Problem B
+# This code is designed to use the turtle function in python to return a four sided star. 
 import turtle
 def fourSidedStar(lengthOfSide):
     turtle.showturtle()
