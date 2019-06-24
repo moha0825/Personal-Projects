@@ -1,4 +1,5 @@
-# CSCI 1133, Lab Section 011, HW 2 Lubna Mohamed Abdirahman, Problem C
+# This code is designed to take in multiple items, such as age, weight, height, heart rate, and duration of 
+#   a workout to calculate the number of calories burned for short or tall people. 
 def calories_short(age, weight, heart_rate, time):
     calories_short = ((age * float(0.074)) + (heart_rate * float(0.4472)) - (weight * float(0.05741)) - 20.4022) * (time / float(4.184))
     return calories_short
