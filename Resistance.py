@@ -1,4 +1,5 @@
-# CSCI 1133, Lab Section 011, HW 2 Lubna Mohamed Abdirahman, Problem A
+# This code is designed to have multiple items inputted, such as the length, radius, and 
+#   viscosity, and then while using an equation, returns the resistance. 
 import math
 def poiseuille(length, radius, viscosity):
     Resistance = (int(8)*viscosity*length)/(math.pi*radius**(4))
