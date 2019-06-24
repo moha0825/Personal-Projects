@@ -1,5 +1,3 @@
-# Lubna Mohamed Abdirahman, moha0825, Lab Section 011, HW 5
-
 #==========================================
 # Name: cnt_occur
 # Purpose: Given a list of integers and/or string, compare it to another integer
