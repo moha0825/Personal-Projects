@@ -1,5 +1,3 @@
-# Lubna Mohamed Abdirahman, moha0825, Lab Section 011, HW 7
-
 #==========================================
 # Name: __init__
 # Purpose: To set both start and end times with the current time of day
