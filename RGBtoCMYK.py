@@ -1,4 +1,4 @@
-# Lubna Mohamed Abdirahman, moha0825, Lab Section 011, HW 3, Problem A
+# This code is designed to convert from RGB to CMYK. 
 def RGB_to_CMYK(r,g,b):  
     R = r/255
     G = g/255
