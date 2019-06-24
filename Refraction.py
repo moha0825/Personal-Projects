@@ -1,4 +1,5 @@
-# CSCI 1133, Lab Section 011, HW 1 Lubna Mohamed Abdirahman, Problem 1A
+# This code is designed to take in incident angles and refractions and then returns
+#   the angle of refraction. 
 import math
 incidentAngle = float(input("Input incident angle in degrees: "))
 incidentAngle = math.radians(incidentAngle)
