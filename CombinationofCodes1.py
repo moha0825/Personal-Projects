@@ -1,5 +1,3 @@
-# Lubna Mohamed Abdirahman, moha0825, Lab Section 011, HW 4
-
 #==========================================
 # Name: separate_int_and_str
 # Purpose: Given a list of integer and strings, create two new lists. One
