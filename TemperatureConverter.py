@@ -1,4 +1,5 @@
-# CSCI 1133, Lab Section 011, HW 1 Lubna Mohamed Abdirahman, Problem 1B
+# This code is designed to convert fahrenheit temperatures to celsius and kelvin, and 
+#   then print whether the weather is cold, cool, or warm. 
 print('This program converts fahrenheit temperatures to celsius and kelvin\n')
 Tf = float(input('Please enter the temperature in Fahrenheit: '))
 Tc = (Tf - 32) * 5/9
