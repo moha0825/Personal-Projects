@@ -75,7 +75,7 @@ def allKeys(diction,element):
 # Return Value(s)
 #       -- Return a sorted dictionary of words in ascending order from the text files imported         
 #==========================================
-import re # REDID THIS PROBLEM 
+import re 
 def invertFiles(list_of_file_names):
     d = { }
     for i in list_of_file_names:
